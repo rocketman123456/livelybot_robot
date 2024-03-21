@@ -28,3 +28,6 @@
 [submodule "src/serial"]
 	path = src/serial
 	url = https://github.com/rocketman123456/serial.git
+[submodule "src/modern_robotics_cpp"]
+	path = src/modern_robotics_cpp
+	url = https://github.com/rocketman123456/modern_robotics_cpp.git
